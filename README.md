@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aniket Prabhakar</h1>
 <h3 align="center">A passionate developer from India who loves to explore new things......</h3>
 
-- 🌱 I’m currently learning **Java,Android Dev**
+- 🌱 I’m currently learning: **Java,Android Dev**
 
-- 💬 Ask me about **git,opensource,Python,AI/ML,WEB-D**
+- 💬 Ask me about: **git,opensource,Python,AI/ML,WEB-D**
 
-- 📫 How to contact me **hsnsnks11@gmail.com**
+- 📫 How to contact me: **Mail at hsnsnks11@gmail.com**
 
-- 📄 Experiences [GDSC Core Team Lead, Campus Hero @Girlscript Jalandhar, Technical Head @Script Foundation,]
+- 📄 Experiences: [GDSC Core Team Lead, Campus Hero @Girlscript Jalandhar, Technical Head @Script Foundation,]
 
-- ⚡ Fun fact **I know I'm funny**
+- ⚡ Fun fact: **I know I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
