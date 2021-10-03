@@ -25,3 +25,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketprabhakar&show_icons=true&locale=en" alt="aniketprabhakar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketprabhakar&" alt="aniketprabhakar" /></p>
+<hr>
+
+<p align="center">
+  <img src="https://github.com/aniketprabhakar/aniketprabhakar/blob/c258f06421a284bcbfb7f0676974b34a311fa833/assets/user-contribution.svg" alt="snake"></center>
+</p>
