@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning: **Java,Android Dev**
 
-- 💬 Ask me about: **git,opensource,Python,AI/ML,WEB-D**
+- 💬 Ask me about: **git,opensource,Python,AI/ML**
 
 - 📫 How to contact me: **Mail at hsnsnks11@gmail.com**
 
